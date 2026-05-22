@@ -85,6 +85,12 @@ This creates an optimized production build in the `dist` folder.
 - **Styling** - CSS3
 - **Linting** - ESLint
 
+
+## Gameplay
+
+![Demo](demo.gif)
+
+
 ## 📝 Configuration
 
 ### Vite Setup
